@@ -1,0 +1,56 @@
+@font-face {
+    font-family: "Open";
+    src: url("./Reduza_Infinity.ttf");
+    }
+.timer-box {
+  background: #cc0033;
+  color: #fff;
+  border-radius: 0.4em;
+  font-family: "Open", sans-serif;
+  align-content: center;
+}
+
+.timer-box-num {
+  font-size: 30pt;
+  text-align: center;
+}
+
+.timer-box-text {
+  font-size: 10pt;
+  text-align: center;
+}
+
+.content {
+  font-family: "Open", sans-serif;
+}
+
+span.h4 {
+  font-family: "Open", sans-serif;
+}
+
+i {
+  color: black;
+}
+
+a > i.social-icon:hover {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.35);
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px white inset !important;
+}
+
+#notifs-forn-input,
+#notifs-form-input:focus {
+  border: solid 2px #ccc;
+}
+a :hover{
+    color: #cc0033;
+}
+h5,h4{
+    font-weight: bold;
+
+}

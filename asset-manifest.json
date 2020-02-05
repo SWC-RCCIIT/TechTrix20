@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TechTrix20/static/css/main.ea7aa732.chunk.css",
+    "main.js": "/TechTrix20/static/js/main.7d0ed912.chunk.js",
+    "main.js.map": "/TechTrix20/static/js/main.7d0ed912.chunk.js.map",
+    "runtime-main.js": "/TechTrix20/static/js/runtime-main.86c7f95f.js",
+    "runtime-main.js.map": "/TechTrix20/static/js/runtime-main.86c7f95f.js.map",
+    "static/js/2.9aa4c56d.chunk.js": "/TechTrix20/static/js/2.9aa4c56d.chunk.js",
+    "static/js/2.9aa4c56d.chunk.js.map": "/TechTrix20/static/js/2.9aa4c56d.chunk.js.map",
+    "index.html": "/TechTrix20/index.html",
+    "precache-manifest.f64702fb1a4fc19481deada4fa62031a.js": "/TechTrix20/precache-manifest.f64702fb1a4fc19481deada4fa62031a.js",
+    "service-worker.js": "/TechTrix20/service-worker.js",
+    "static/css/main.ea7aa732.chunk.css.map": "/TechTrix20/static/css/main.ea7aa732.chunk.css.map",
+    "static/js/2.9aa4c56d.chunk.js.LICENSE.txt": "/TechTrix20/static/js/2.9aa4c56d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86c7f95f.js",
+    "static/js/2.9aa4c56d.chunk.js",
+    "static/css/main.ea7aa732.chunk.css",
+    "static/js/main.7d0ed912.chunk.js"
+  ]
+}
